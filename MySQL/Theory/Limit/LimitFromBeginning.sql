@@ -1,0 +1,4 @@
+SELECT *
+FROM Company
+ORDER BY name ASC
+LIMIT 2
